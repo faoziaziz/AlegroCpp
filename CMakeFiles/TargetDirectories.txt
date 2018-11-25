@@ -1,0 +1,3 @@
+/home/faoziaziz/Proyek/AlegroCpp/CMakeFiles/rebuild_cache.dir
+/home/faoziaziz/Proyek/AlegroCpp/CMakeFiles/Tutorial.dir
+/home/faoziaziz/Proyek/AlegroCpp/CMakeFiles/edit_cache.dir
